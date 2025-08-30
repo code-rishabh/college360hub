@@ -15,7 +15,6 @@
     "@stripe/stripe-js": "^2.4.0",
     "@types/pg": "^8.15.5",
     "@vercel/postgres": "^0.10.0",
-    "better-sqlite3": "^9.2.2",
     "date-fns": "^2.30.0",
     "next": "14.0.4",
     "pg": "^8.16.3",
@@ -25,12 +24,10 @@
     "react-hook-form": "^7.48.2",
     "react-icons": "^4.12.0",
     "resend": "^6.0.2",
-    "sqlite3": "^5.1.6",
     "stripe": "^14.10.0",
     "zustand": "^4.4.7"
   },
   "devDependencies": {
-    "@types/better-sqlite3": "^7.6.8",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
